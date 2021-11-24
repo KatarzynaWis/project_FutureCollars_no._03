@@ -437,6 +437,7 @@ body {
 }
 .footer__button-text--white {
   color: #fff;
+  margin: 0 auto;
 }
 .footer__second-section {
   margin-bottom: 93px;

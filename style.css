@@ -93,6 +93,7 @@ body {
   line-height: 26px;
   letter-spacing: 0.005em;
   white-space: nowrap;
+  text-align: center;
 }
 .first-section {
   margin-top: 110px;
@@ -124,6 +125,7 @@ body {
   background-color: #9c69e2;
   color: #fff;
   font-weight: 800;
+  font-size: 18px;
   letter-spacing: 1px;
   display: flex;
   justify-content: center;
@@ -285,6 +287,7 @@ body {
   background-color: transparent;
   font-size: 16px;
   font-weight: 800;
+  color: black;
   letter-spacing: 0.005em;
   display: flex;
   align-items: center;
@@ -395,6 +398,7 @@ body {
   height: 5px;
   border-radius: 3px;
   background-color: #fff;
+  cursor: pointer;
 }
 .fifth-section__dot--active {
   width: 10px;
@@ -404,6 +408,7 @@ body {
 }
 .fifth-section__arrow {
   margin: 0 10px;
+  cursor: pointer;
 }
 .footer {
   border-top: 2px;
